@@ -1,0 +1,32 @@
+{
+  "name": "FPBModule",
+  "version": "0.1.0",
+  "summary": "A short description of FPBModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangqingren/FPBModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "564008993@qq.com": "yangqingren@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/yangqingren/FPBModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FPBModule/Classes/**/*",
+  "resources": "FPBModule/Assets/*.bundle",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
